@@ -1,0 +1,392 @@
+Sensitivity,Result,URL
+1Base_Wx-Years_EQ_,"Generation for DE-Duisburg-Wanheim III",https://epsi.genscape.com/epsa/sensitivity/3416/results/127/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/32/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (backward) for Great Britain - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/276/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/90/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"CO2 price for Netherlands",https://epsi.genscape.com/epsa/sensitivity/3416/results/206/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Netherlands",https://epsi.genscape.com/epsa/sensitivity/3416/results/118/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/71/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Denmark (East)",https://epsi.genscape.com/epsa/sensitivity/3416/results/102/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/358/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/331/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/16/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/55/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/84/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/233/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (forward) for Denmark (West) - Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/259/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Spain, Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/194/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/57/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Austria",https://epsi.genscape.com/epsa/sensitivity/3416/results/368/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/220/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/316/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Nossener Brucke # 3",https://epsi.genscape.com/epsa/sensitivity/3416/results/163/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/89/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for GB-Shoreham",https://epsi.genscape.com/epsa/sensitivity/3416/results/175/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/31/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/35/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price - native currency for Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/11/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/347/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Belgium, Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/208/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/93/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/292/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/378/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/325/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/29/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/350/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/291/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Germany",https://epsi.genscape.com/epsa/sensitivity/3416/results/374/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for France, Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/199/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Denmark (West)",https://epsi.genscape.com/epsa/sensitivity/3416/results/114/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/226/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/58/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"FX rate for Euro, British Pound",https://epsi.genscape.com/epsa/sensitivity/3416/results/211/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Ludwigshafen Mitte # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/153/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/15/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Czech Republic",https://epsi.genscape.com/epsa/sensitivity/3416/results/382/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/337/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Czech Republic",https://epsi.genscape.com/epsa/sensitivity/3416/results/101/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/73/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/340/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/76/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/311/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/62/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/67/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/241/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for France, Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/198/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Herdecke Cuno",https://epsi.genscape.com/epsa/sensitivity/3416/results/139/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Portugal",https://epsi.genscape.com/epsa/sensitivity/3416/results/389/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Emsland Gas # C",https://epsi.genscape.com/epsa/sensitivity/3416/results/129/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/327/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/320/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (forward) for Great Britain - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/280/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (forward) for Portugal - Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/273/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/236/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/361/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (forward) for Great Britain - Ireland incl NI",https://epsi.genscape.com/epsa/sensitivity/3416/results/249/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/218/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"CO2 price for Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/202/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Weisweiler # H (VGT)",https://epsi.genscape.com/epsa/sensitivity/3416/results/168/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-Salinco",https://epsi.genscape.com/epsa/sensitivity/3416/results/184/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Gersteinwerk # I",https://epsi.genscape.com/epsa/sensitivity/3416/results/135/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/14/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/348/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Irsching # 5",https://epsi.genscape.com/epsa/sensitivity/3416/results/145/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/49/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-Delesto # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/178/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/24/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/285/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Huerth Knapsack I # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/140/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Bayer Dormagen",https://epsi.genscape.com/epsa/sensitivity/3416/results/124/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for France",https://epsi.genscape.com/epsa/sensitivity/3416/results/104/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Franken I # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/131/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-Leiden",https://epsi.genscape.com/epsa/sensitivity/3416/results/181/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for France",https://epsi.genscape.com/epsa/sensitivity/3416/results/385/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/234/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/314/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/307/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Ludwigshafen Sud # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/154/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/23/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Netherlands",https://epsi.genscape.com/epsa/sensitivity/3416/results/388/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/364/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/96/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/355/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Missing object",https://epsi.genscape.com/epsa/sensitivity/3416/results/159/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/326/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Missing object",https://epsi.genscape.com/epsa/sensitivity/3416/results/160/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/47/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/367/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Germany",https://epsi.genscape.com/epsa/sensitivity/3416/results/8/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/98/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/335/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/37/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/43/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (backward) for France - Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/270/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Netherlands, Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/195/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Denmark (East)",https://epsi.genscape.com/epsa/sensitivity/3416/results/5/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Switzerland",https://epsi.genscape.com/epsa/sensitivity/3416/results/391/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/21/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/288/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Spain, Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/193/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/119/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/324/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-IJmond",https://epsi.genscape.com/epsa/sensitivity/3416/results/180/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/244/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Nossener Brucke # 2",https://epsi.genscape.com/epsa/sensitivity/3416/results/162/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/351/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (forward) for France - Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/246/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/240/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/74/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/334/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/61/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/230/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/299/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for France",https://epsi.genscape.com/epsa/sensitivity/3416/results/115/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Portugal",https://epsi.genscape.com/epsa/sensitivity/3416/results/377/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Denmark (West)",https://epsi.genscape.com/epsa/sensitivity/3416/results/103/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"CO2 price for Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/201/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Switzerland",https://epsi.genscape.com/epsa/sensitivity/3416/results/379/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Denmark (East)",https://epsi.genscape.com/epsa/sensitivity/3416/results/113/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Missing object",https://epsi.genscape.com/epsa/sensitivity/3416/results/152/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Great Britain, Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/189/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/342/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/295/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/266/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/91/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/341/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Netherlands",https://epsi.genscape.com/epsa/sensitivity/3416/results/107/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/87/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for GB-Severn # 2",https://epsi.genscape.com/epsa/sensitivity/3416/results/174/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/77/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/214/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/221/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/39/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/64/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/97/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/12/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/41/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/52/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/312/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/302/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/229/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/45/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/260/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/237/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Czech Republic",https://epsi.genscape.com/epsa/sensitivity/3416/results/370/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/309/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Germany, Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/188/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/68/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/315/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/1/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Gersteinwerk # KV1",https://epsi.genscape.com/epsa/sensitivity/3416/results/136/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Germany",https://epsi.genscape.com/epsa/sensitivity/3416/results/116/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/338/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Irsching # 4",https://epsi.genscape.com/epsa/sensitivity/3416/results/144/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Austria",https://epsi.genscape.com/epsa/sensitivity/3416/results/380/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Belgium",https://epsi.genscape.com/epsa/sensitivity/3416/results/100/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/300/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/222/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/25/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/286/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Switzerland",https://epsi.genscape.com/epsa/sensitivity/3416/results/120/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/83/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Belgium",https://epsi.genscape.com/epsa/sensitivity/3416/results/381/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/305/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/308/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (backward) for France - Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/254/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-AGG ST-Gas CHP",https://epsi.genscape.com/epsa/sensitivity/3416/results/177/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for France",https://epsi.genscape.com/epsa/sensitivity/3416/results/373/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/217/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/328/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/239/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for BE-Exxon Antwerp",https://epsi.genscape.com/epsa/sensitivity/3416/results/122/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Huntorf",https://epsi.genscape.com/epsa/sensitivity/3416/results/143/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (forward) for Netherlands - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/281/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/269/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"CO2 price for France",https://epsi.genscape.com/epsa/sensitivity/3416/results/205/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Missing object",https://epsi.genscape.com/epsa/sensitivity/3416/results/158/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/42/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/22/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/363/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/46/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/235/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/301/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Czech Republic",https://epsi.genscape.com/epsa/sensitivity/3416/results/6/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/36/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/213/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-Rijnmond",https://epsi.genscape.com/epsa/sensitivity/3416/results/183/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/94/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/51/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/362/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/317/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/296/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/265/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for FR-Enersol Tioxide CC",https://epsi.genscape.com/epsa/sensitivity/3416/results/169/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Franken I # 2",https://epsi.genscape.com/epsa/sensitivity/3416/results/132/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for FR-Peugeot Sochaux",https://epsi.genscape.com/epsa/sensitivity/3416/results/171/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Denmark (West)",https://epsi.genscape.com/epsa/sensitivity/3416/results/384/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Germany",https://epsi.genscape.com/epsa/sensitivity/3416/results/386/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for France, Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/200/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/18/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Netherlands",https://epsi.genscape.com/epsa/sensitivity/3416/results/376/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/366/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Missing object",https://epsi.genscape.com/epsa/sensitivity/3416/results/125/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/329/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/44/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/27/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (forward) for France - Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/272/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Missing object",https://epsi.genscape.com/epsa/sensitivity/3416/results/161/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Great Britain, Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/190/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/298/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/95/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/313/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/20/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Switzerland",https://epsi.genscape.com/epsa/sensitivity/3416/results/109/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/231/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/243/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"CO2 price for Germany",https://epsi.genscape.com/epsa/sensitivity/3416/results/151/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Lausward # Anton",https://epsi.genscape.com/epsa/sensitivity/3416/results/148/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/343/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/287/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/78/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/294/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/349/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/106/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (backward) for Germany - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/275/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Mittelsburen # 4",https://epsi.genscape.com/epsa/sensitivity/3416/results/157/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/65/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Netherlands, Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/197/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"CO2 price for Belgium",https://epsi.genscape.com/epsa/sensitivity/3416/results/203/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/261/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Hamm-Uentrop # 2",https://epsi.genscape.com/epsa/sensitivity/3416/results/138/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/81/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Hamm-Uentrop # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/137/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/60/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/321/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/284/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/86/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (forward) for Great Britain - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/247/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Denmark (East)",https://epsi.genscape.com/epsa/sensitivity/3416/results/371/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"FX rate for Euro, US Dollar",https://epsi.genscape.com/epsa/sensitivity/3416/results/204/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/289/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Staudinger # 4",https://epsi.genscape.com/epsa/sensitivity/3416/results/165/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/346/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/17/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Denmark (West)",https://epsi.genscape.com/epsa/sensitivity/3416/results/2/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Germany, Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/186/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/82/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Austria",https://epsi.genscape.com/epsa/sensitivity/3416/results/110/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Koeln Merkenich # GuD",https://epsi.genscape.com/epsa/sensitivity/3416/results/147/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/333/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/339/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/228/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/323/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/268/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/345/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/69/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Czech Republic",https://epsi.genscape.com/epsa/sensitivity/3416/results/112/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/319/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for GB-Peterborough",https://epsi.genscape.com/epsa/sensitivity/3416/results/172/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Great Britain, Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/191/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/224/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Germany, Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/187/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/223/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/282/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/262/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/79/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Austria",https://epsi.genscape.com/epsa/sensitivity/3416/results/121/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/212/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/352/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/344/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Burghausen Wacker Chemie",https://epsi.genscape.com/epsa/sensitivity/3416/results/126/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/238/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (forward) for Great Britain - Netherlands",https://epsi.genscape.com/epsa/sensitivity/3416/results/251/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Belgium",https://epsi.genscape.com/epsa/sensitivity/3416/results/369/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (backward) for Denmark (West) - Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/253/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (forward) for Germany - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/279/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-AGG CCGT CHP",https://epsi.genscape.com/epsa/sensitivity/3416/results/176/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Belgium, Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/209/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/357/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/216/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (backward) for Great Britain - Ireland incl NI",https://epsi.genscape.com/epsa/sensitivity/3416/results/256/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Denmark (West)",https://epsi.genscape.com/epsa/sensitivity/3416/results/372/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/117/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for FR-Gennevilliers GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/170/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/33/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/63/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/7/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/80/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/26/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/227/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/336/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Austria",https://epsi.genscape.com/epsa/sensitivity/3416/results/99/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/72/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-Eems # 3",https://epsi.genscape.com/epsa/sensitivity/3416/results/179/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Denmark (East)",https://epsi.genscape.com/epsa/sensitivity/3416/results/383/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/264/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (backward) for Germany - Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/255/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/297/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/359/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-Moerdijk # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/182/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/108/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (backward) for Netherlands - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/277/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/92/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for France, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/232/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Netherlands",https://epsi.genscape.com/epsa/sensitivity/3416/results/10/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Belgium, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/225/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/330/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Huerth Knapsack I # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/142/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Belgium, Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/207/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, ST-Nuclear",https://epsi.genscape.com/epsa/sensitivity/3416/results/263/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Weisweiler # G (VGT)",https://epsi.genscape.com/epsa/sensitivity/3416/results/167/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/48/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/360/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Missing object",https://epsi.genscape.com/epsa/sensitivity/3416/results/133/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), Solar",https://epsi.genscape.com/epsa/sensitivity/3416/results/290/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for BE-Knippegroen Sidmar",https://epsi.genscape.com/epsa/sensitivity/3416/results/123/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Lausward # Fortuna",https://epsi.genscape.com/epsa/sensitivity/3416/results/149/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, Wind",https://epsi.genscape.com/epsa/sensitivity/3416/results/304/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/50/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/210/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (backward) for Great Britain - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/258/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for GB-Severn # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/173/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, ST-Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/56/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/66/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/19/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (East), Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/293/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, ST-Biomass",https://epsi.genscape.com/epsa/sensitivity/3416/results/54/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Spain, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/365/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (backward) for Denmark (West) - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/274/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/306/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/70/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/322/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, Hydro-Res",https://epsi.genscape.com/epsa/sensitivity/3416/results/353/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Tiefstack # 3",https://epsi.genscape.com/epsa/sensitivity/3416/results/166/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Dump energy for Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/375/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/88/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/30/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Huerth Knapsack I # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/141/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Emsland Gas # B",https://epsi.genscape.com/epsa/sensitivity/3416/results/128/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (backward) for Belgium - Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/252/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/28/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, ST-Waste",https://epsi.genscape.com/epsa/sensitivity/3416/results/310/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Switzerland, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/283/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/75/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/40/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Gersteinwerk # G",https://epsi.genscape.com/epsa/sensitivity/3416/results/134/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Mainz-Wiesbaden (KW3)",https://epsi.genscape.com/epsa/sensitivity/3416/results/156/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Great Britain, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/303/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Spain, Coal",https://epsi.genscape.com/epsa/sensitivity/3416/results/192/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (forward) for Belgium - Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/250/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for France, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/59/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/215/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (forward) for Denmark (West) - Norway",https://epsi.genscape.com/epsa/sensitivity/3416/results/278/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Leipzig # 1",https://epsi.genscape.com/epsa/sensitivity/3416/results/150/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Flow (backward) for Portugal - Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/271/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Emsland Gas # D",https://epsi.genscape.com/epsa/sensitivity/3416/results/130/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Ludwigshafen Sud # 2",https://epsi.genscape.com/epsa/sensitivity/3416/results/155/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/387/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Belgium, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/53/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/245/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Netherlands, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/267/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, Hydro-RoR",https://epsi.genscape.com/epsa/sensitivity/3416/results/354/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Germany, CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/219/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Czech Republic, GT",https://epsi.genscape.com/epsa/sensitivity/3416/results/318/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Austria, ST-Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/13/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (backward) for Great Britain - Netherlands",https://epsi.genscape.com/epsa/sensitivity/3416/results/257/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Demand for Germany",https://epsi.genscape.com/epsa/sensitivity/3416/results/105/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Denmark (West), Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/85/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Switzerland",https://epsi.genscape.com/epsa/sensitivity/3416/results/3/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for NL-Schoonebeek",https://epsi.genscape.com/epsa/sensitivity/3416/results/185/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Unserved energy for Spain",https://epsi.genscape.com/epsa/sensitivity/3416/results/390/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Spain, ST-Gas",https://epsi.genscape.com/epsa/sensitivity/3416/results/332/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Line capacity (forward) for Germany - Great Britain",https://epsi.genscape.com/epsa/sensitivity/3416/results/248/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Net exports for Belgium",https://epsi.genscape.com/epsa/sensitivity/3416/results/111/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for Belgium",https://epsi.genscape.com/epsa/sensitivity/3416/results/9/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Kiel # CHP",https://epsi.genscape.com/epsa/sensitivity/3416/results/146/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Netherlands, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/356/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, ST-Oil",https://epsi.genscape.com/epsa/sensitivity/3416/results/38/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"System Marginal Price for France",https://epsi.genscape.com/epsa/sensitivity/3416/results/4/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for Germany, Hydro-PS",https://epsi.genscape.com/epsa/sensitivity/3416/results/34/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Generation for DE-Romerbrucke # CCGT",https://epsi.genscape.com/epsa/sensitivity/3416/results/164/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Fuel price (original units) for Netherlands, Lignite",https://epsi.genscape.com/epsa/sensitivity/3416/results/196/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
+1Base_Wx-Years_EQ_,"Capacity available for Great Britain, Engine",https://epsi.genscape.com/epsa/sensitivity/3416/results/242/xml?filter_id=&resolution=hourly&account=101&password=YOUR_PASSWORD
